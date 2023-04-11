@@ -1,0 +1,17 @@
+{
+  "name": "progetto1",
+  "version": "1.0.0",
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "deploy": "npm run build && gh-pages -d dist"
+  },
+  "author": "cantù giada",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "gh-pages": "^5.0.0",
+    "parcel": "^2.8.3"
+  }
+}

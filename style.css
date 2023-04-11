@@ -1,5 +1,5 @@
 body {
-    background-color: #165e74;
+    background-color: #bfff00;
   }
   
   main {
@@ -11,7 +11,7 @@ body {
   
   main h1 {
     font-family: 'Lilita One', cursive;
-    color: rgb(254, 255, 172);
+    color: rgb(98, 0, 255);
     font-size: 10vw;
     letter-spacing: -2px;
   }
